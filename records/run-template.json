@@ -1,0 +1,21 @@
+{
+  "record_id": null,
+  "candidate_id": null,
+  "run_status": "planned",
+  "claim_status": "proposed",
+  "method": null,
+  "date_utc": null,
+  "operator_or_instrument": null,
+  "software_and_version": null,
+  "sample_or_geometry_ids": [],
+  "conditions": {},
+  "state_or_transition_assignment": null,
+  "enantiomer_order": null,
+  "related_record_ids": [],
+  "inputs": [],
+  "raw_outputs": [],
+  "analysis_outputs": [],
+  "validation_checks": [],
+  "observables": [],
+  "uncertainty_and_limitations": null
+}
